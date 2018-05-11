@@ -1,0 +1,25 @@
+{
+  "name": "ke-mqtt",
+  "version": "1.0.0",
+  "description": "mqtt utility",
+  "main": "ke-mqtt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m0kimura/ke-mqtt.git"
+  },
+  "keywords": [
+    "mqtt"
+  ],
+  "author": "Michihiro Kimura <kimura@kmrweb.net> (http://www.kmrweb.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m0kimura/ke-mqtt/issues"
+  },
+  "homepage": "https://github.com/m0kimura/ke-mqtt#readme",
+  "dependencies": {
+    "ke-utility": "^1.18.4"
+  }
+}
